@@ -49,7 +49,7 @@ Extraction code:       A408
 
 DASPM significantly outperforms previous works on several UDA benchmarks in the dataset that we utilized.
 
-![Alt text](image.png)
+![Alt text](demo/image1.png)
 
 
 References:
