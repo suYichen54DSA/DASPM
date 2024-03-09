@@ -80,7 +80,7 @@ the instructions for a manual download within the script.
 sh tools/download_checkpoints.sh
 ```
 
-All experiments were executed on a NVIDIA RTX 2080 Ti.
+All experiments were executed on three NVIDIA RTX 3090 Ti.
 
 ## Inference Demo
 
