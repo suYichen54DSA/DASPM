@@ -43,8 +43,8 @@ If you find this project useful in your research, please consider citing:
 
 Currently, Unsupervised Domain Adaptation (UDA) method has not been widely applied in the field of remote sensing, resulting in a lack of remote sensing datasets for evaluating UDA frameworks. In order to facilitate better comparisons with other land mapping methods and to expand the categories for domain transfer, this study also utilizes a combination of 2-meter resolution high-resolution imagery obtained from Google Earth and 10-meter resolution Sentinel-2 imagery to create a land use dataset for comparative experiments. The link to this dataset is provided below:
 
-Baidu Netdisk link:    https://pan.baidu.com/s/1U4L_h8G3rGjmRhRBb-rydg?pwd=A408
-Extraction code:       A408
+Baidu Netdisk link:    https://pan.baidu.com/s/1iSbIB91vBPzBPFUAScztSA?pwd=BHZX
+Extraction code:       BHZX
 ## Comparison with Other UDA model
 
 DASPM significantly outperforms previous works on several UDA benchmarks in the dataset that we utilized.
